@@ -6,3 +6,5 @@ Lista ordenada de manera descendente
 ![image](https://github.com/DavidSandoval1/Taller01-Ramas/assets/144569819/7b795312-18bc-4214-9dc2-d6948642d5da)
 artista:
 ![image](https://github.com/DavidSandoval1/Taller01-Ramas/assets/152084340/09729919-ce5f-4cd0-ac62-0668d4f36754)
+colores:
+![coloresProof](https://github.com/DavidSandoval1/Taller01-Ramas/assets/152760572/7a44f0ca-86d9-4807-9d12-25d54833737e)
